@@ -2,7 +2,7 @@
 
 @system("clear"); 
 @system("rm -rf bot.php");
-@system("git clone https://github.com/Khairil2203/member");
+@system("git clone https://github.com/Khairil2203/user");
 @system("clear");
 
 echo"\n\n";
