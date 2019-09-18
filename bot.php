@@ -10,5 +10,6 @@ echo"\n\n";
 echo "Creator : MK KHAIRIL\n";
 echo "Lanjutkan\n";
 echo "Mantap Mamank\n";
+echo "aku ganteng kan\n";
 exit;
 
